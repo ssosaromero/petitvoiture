@@ -1,0 +1,2 @@
+class Steelpainter < ApplicationRecord
+end
