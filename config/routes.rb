@@ -12,5 +12,4 @@ Rails.application.routes.draw do
   resources :steelpainters do
     resources :appointments, only: %i[new create]
   end
-
 end
